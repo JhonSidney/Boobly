@@ -12,5 +12,6 @@
  
 </table>
 <h4 align="center" >Repositório para a disciplina de Desenvolvimento de Aplicações para TV - 2020.2 - UFRPE</h4>
+<h4 align="center" >html css javascript- UFRPE</h4>
 <h4 align="center" >Boobly Memory Card</h4>
 
